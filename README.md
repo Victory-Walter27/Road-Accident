@@ -5,17 +5,19 @@ This repository contains a MS Excel dashboard for the Road Transport Department 
 
 
 
-GOALS
+**GOALS**
 •	The dashboard analyzes the monthly trend showing comparison of causalities between the year 2021 and 2022.
 •	The distribution of causalities by road type.
 •	The distribution of causalities by road surface.
-Key Performance Indicators (KPI)
+
+
+**Key Performance Indicators (KPI)**
 •	Total causalities taken place after the accident.
 •	Total Causalities with respect to Vehicle type.
 •	Total causalities and percentage of total with respect to accident severity.
 
 
-Technical Stack
+**Technical Stack**
 •	Data Cleaning –MS Excel
 •	Data Processing–MS Excel
 •	Data Analysis–MS Excel
