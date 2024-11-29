@@ -6,7 +6,7 @@ This repository contains a MS Excel dashboard for the Road Transport Department 
 
 **Data Source**
 
-**Road Accident**: The dataset is recognized as a file extension of .xlsx (spreadsheet) with 12 fields and 3,07 million rows.
+**Road Accident**: The primary dataset "Road Accident" was gotten from the **Road Transport** Department which is recognized as a file extension of .xlsx (spreadsheet) with 12 fields and 3,07 million rows.
 
 
 
