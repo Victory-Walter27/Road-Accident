@@ -14,8 +14,10 @@ This repository contains a MS Excel dashboard for the Road Transport Department 
 
 
 
-**GOALS**
+**Exploratory Data Analysis**
 ---
+EDA included exploring the dataset to answer the main following task:
+
 - The dashboard analyzes the monthly trend showing comparison of causalities between the year 2021 and 2022.
 -	The distribution of causalities by road type.
 -	The distribution of causalities by road surface.
