@@ -127,12 +127,12 @@ EDA included exploring the dataset to answer the main following task:
 | Urban vs Rural (Sidebar) | More casualties occur in **urban** areas (255.9K vs. 162K).          | Increase enforcement in congested urban areas.                           |
 | Time of Day (By Light)   | Majority (304,963) happen during **daylight** hours.                 | Daylight does not guarantee safety — distractions and congestion matter. |
 
-**Technical Stack**
+**TOOLS**
 ---
-- 	Data Cleaning –MS Excel
-- 	Data Processing–MS Excel
-- 	Data Analysis–MS Excel
-- 	Data Visualization–MS Excel
-- 	Report/ Dashboard–MS Excel
+- MS Excel - Data Cleaning
+- MS Excel - Data Processing
+- MS Excel -	Data Analysis
+- MS Excel - Data Visualization
+- MS Excel - Report/ Dashboard
 
 
